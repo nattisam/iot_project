@@ -1,0 +1,6 @@
+cassandra-driver==3.29.1
+faker==28.1.0
+pandas==2.2.2
+streamlit==1.31.1
+plotly==5.18.0
+
